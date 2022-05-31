@@ -1,0 +1,73 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Summarize and Test Your Understanding of the Fluid Mosaic Model of Membrane Structure</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>b22e6611-d3a8-4669-b3be-c016cdb563b0</md:uuid>
+</metadata>
+  <content>
+    <para id="delete_me">Singer and Nicholson’s (1972) <link document="m15255" target-id="delete_me">fluid mosaic model</link>, which has been only very slightly modified despite an additional 35 years of discovery, is the now the accepted model for plasma membrane structure.  
+    </para><para id="element-893">1. On a piece of paper, describe your understanding of the biochemical structure and organization of the plasma membrane. A superior response will include the molecular interactions responsible for its physical organization.  </para><para id="element-646">2. Recall that the biochemical composition and structural organization of the plasma membrane render it <link document="m15250" target-id="delete_me">‘semi-permeable’ as Overton observed</link> over 100 years ago. That is, some molecules can diffuse through it while others cannot. Review the list of molecules below and for each one propose and explain a reason that references the structure of the membrane for the indicated permeability property.  </para><exercise id="element-156"><problem id="idp8401392">
+		<para id="element-68">
+			Hydrogen ion (H+): Impermeable.  
+		</para>
+	</problem>
+
+	<solution id="idp7537088">
+		<para id="element-932">Ions are charged and are hydrophobic. They cannot dissolve in the hydrophobic interior of the plasma membrane and so cannot diffuse directly through the membrane.
+		
+		</para>
+	</solution>
+</exercise><exercise id="element-711"><problem id="idp7095552">
+		<para id="element-346">
+			Oxygen (O2): Permeable.  
+		</para>
+	</problem>
+
+	<solution id="idp1624336">
+		<para id="element-71">Oxygen is a non-polar molecule because electrons are shared equally by both atoms. Therefore, it can diffuse directly through the hydrophobic interior of the plasma membrane. 
+		</para>
+	</solution>
+</exercise><exercise id="element-538"><problem id="idp11838544">
+		<para id="element-511">
+			Carbon dioxide (CO2): Permeable. 
+		</para>
+	</problem>
+
+	<solution id="idp13390656">
+		<para id="element-591">Although the chemical bonds of this molecular are polar because the oxygen atoms pull electrons away from the carbon, the oxygen atoms are arranged on either side of the carbon in such a way that it distributes the charge more or less evenly across the surface of the molecule. Thus, the molecule as a whole is non-polar. As such, the molecule is able to diffuse directly through the hydrophobic interior of the plasma membrane. 
+		</para>
+	</solution>
+</exercise><exercise id="element-706"><problem id="idp18299504">
+		<para id="element-938">
+			Glucose: Impermeable.  
+		</para>
+	</problem>
+
+	<solution id="idp10160848">
+		<para id="element-314">The hydroxyl groups on the molecule are charged and therefore non-polar. These charges prevent glucose from diffusing directly through the hydrophobic interior of the plasma membrane.
+		</para>
+	</solution>
+</exercise><exercise id="element-630"><problem id="idp7468784">
+		<para id="element-915">
+			Calcium ion (Ca2+): Impermeable.  
+		</para>
+	</problem>
+
+	<solution id="idp16948816">
+		<para id="element-629">The calcium ion, like the hydrogen ion, is charged, Consequently it cannot diffuse directly through the hydrophobic interior of the membrane. 
+		</para>
+	</solution>
+</exercise><exercise id="element-143"><problem id="idp9749904">
+		<para id="element-946">
+			 Water (H2O): Permeable.  
+		</para>
+	</problem>
+
+	<solution id="idp13282256">
+		<para id="element-80">Oddly water can diffuse directly through the membrane even though it is a highly polar molecule due to the unequal charge distribution that arises from the oxygen atom pulling electrons away from the two hydrogen atoms. Its very small size is believed to be important to its ability to diffuse directly through the membrane. 
+		</para>
+	</solution>
+</exercise><list id="element-736" list-type="bulleted"><title>Works Cited</title>
+<item>Singer, S.J. and G. L. Nicolson. 1972.  The fluid mosaic model of the structure of cell membranes. <cite><cite-title>Science.</cite-title></cite> 175: 720-731. </item>
+	</list>   
+  </content>
+  
+</document>

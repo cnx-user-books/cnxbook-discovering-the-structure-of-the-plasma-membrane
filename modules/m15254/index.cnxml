@@ -1,0 +1,22 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>A Lipid Bilayer Model of Cell Membrane Structure</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>0271e869-29c1-4625-9565-f450fedb98db</md:uuid>
+</metadata>
+  <content>
+    <para id="delete_me">On the basis of data, as well as independent evidence that lipids could form two layered structures (Gorter and Grendel, 1925), Gorter and Grendel correctly concluded that the cell membrane was not one molecule thick as proposed by Irving Langmuir in 1917 but rather two. That is, <link document="m15250" target-id="element-588">the phospholipid molecules that formed the cell membrane were arranged in two layers to form a lipid ‘bilayer’</link>. 
+    </para><para id="element-641">In this same paper, Gorter and Grendel (1925) also correctly predicted the physical orientation of the phospholipid molecules within the bilayer.  Like <link document="m15249" target-id="delete_me">Ernest Overton</link> before them, their prediction was based on their understanding of molecular interactions. </para><para id="element-167">To generate a model of how phospholipid molecules are organized into a bilayer, based on your own understanding of molecular interactions, answer the questions below.</para><para id="element-387">1.  Examine the phospholipid molecule depicted <link url="http://www.agen.ufl.edu/~chyn/age2062/lect/lect_06/4_18.GIF">here</link>. In light of its structure and the fact that both the interior and exterior surfaces of a cell’s plasma membrane physically contact aqueous (water based) solutions, cytoplasm and interstitial fluid respectively, suggest a model to explain how phospholipid molecules are arranged to form a bilayer. Sketch your model and, in a couple sentences, explain the reasoning on which your model is based.</para><para id="element-249">2.  How does your model compare to that proposed by Gorter and Grendel (1925), which is now a part of our current model of membrane structure? To answer this question, compare your proposal to Gorder and Grendel's original description of the organization of individual lipid molecules within the bilayer and answer the associated questions. </para><para id="element-382"><code display="block" id="idp6914624">...the chromocytes [erythrocytes] of different animals are covered by a layer of lipoids
+[lipids] just two molecules thick...every chromocyte is surrounded by a layer of lipoids,
+of which the polar groups are directed to the inside and to the outside [of the cell] in
+much the same way as Bragg (1) supposes the molecules to be oriented in a 'crystal' of a
+fatty acid, and as the molecules of a soap bubble are according to Perrin (2).  On the
+boundary of the two phases, one being the watery solution of hemoglobin, and the other the
+plasma, such an orientation seems a priori to be the most probable one.(Gorter and
+Grendel, 1925, p.439)
+</code></para><para id="element-734">Draw a sketch illustrating Gorten and Grendel's description of how lipids are organized within the bilayer and then compare your model to theirs.  How are they similar? How do they differ? If the two models differ substantially, explain both how you would revise your model and why these revisions make biological/biochemical sense.    
+</para><para id="element-811">3. Gorter and Grendel are fairly confident they have correctly described the organization of the lipid membrane. How do they support their conclusion about the orientation of the lipids? Please explain. </para><list id="element-653" list-type="bulleted"><title>Works Cited</title>	
+<item>Gorter, E. and F. Grendel. 1925. On bimolecular layers of lipoids on the chromocytes of the blood. 439-443.<cite><cite-title> The Journal of Experimental Medicine.</cite-title></cite> 41:439-443. </item>
+	<item>Langmuir, I. 1917. The constitution and structural properties of solids and liquids. II. Liquids. <cite><cite-title>Journal of the American Chemical Society. 39: 1848-1906.</cite-title></cite></item>
+	</list>   
+  </content>
+  
+</document>

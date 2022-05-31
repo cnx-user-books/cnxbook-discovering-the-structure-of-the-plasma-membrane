@@ -1,0 +1,22 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Early Evidence for the Semi-Permeable Cell Membrane</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>bdd0e48e-4f73-48af-9228-d3fd17e0d984</md:uuid>
+</metadata>
+  <content>
+    <para id="delete_me">Imagine it’s the late 1800’s and an exciting time in cell biology as little is known about the biochemical and physical composition, structure and organization of cells and particularly cell membranes.  The current state of knowledge at this time, based in part on work conducted on erythrocytes (red blood cells) as early as 1773, can be summarized as follows (De Weer, 2000): 
+ </para><list id="element-937" list-type="bulleted"><item>Living cells contain fluid.</item>
+	<item>This fluid is separated from the external environment by a visible membrane of unknown composition and structure.</item>
+	<item>The volume of this fluid can change depending upon the nature of the fluid in which cells are immersed. A change in volume can cause the cell to either shrink, swell or sometimes burst (lyse).</item>
+<item>The membrane is permeable to water but apparently not generally to solutes.</item></list><para id="element-17">An example of the kind of data that supported the contention that cell membranes are impermeable to solutes appears in Figure 1 (Jacobs, 1931). Consider the data and answer the questions that follow. </para><figure id="element-157"><subfigure id="subfig1"> 
+<media id="idm3058688" alt=""><image src="../../media/Figure 1 Na cell concentration resize.jpg" mime-type="image/jpeg"/></media>
+</subfigure>
+<subfigure id="subfig2">
+<media id="idm2420352" alt=""><image src="../../media/Figure 1 K cell concentration resize.jpg" mime-type="image/jpeg"/></media>
+</subfigure>
+<caption>Average concentration of free (unbound) 1) sodium (Na+) and 2) potassium (K+) ions in live dog erythrocytes (dark gray, mg per 100 cc) and the blood plasma in which the erythrocytes are immersed (light gray, mg per 100 cc). N=7. Error bars are 95% confidence intervals. Data from Kerr (1929).</caption></figure><para id="element-55">1. Review Figure 1. Please describe what the data suggest about the concentration of a) sodium and b) potassium ions inside dog erythrocytes relative to the surrounding plasma.</para><para id="element-19">2. Data from other mammal species reveal a pattern similar to that above (Jacobs, 1931). Please explain why data like these suggest that cell membranes are impermeable to (at least some) solutes. </para><para id="element-706">3. What would you expect the figures above to look like if the membrane of erythrocytes was permeable to these two solutes? That is, what is the null hypothesis for a comparison of the relative concentration of a) sodium and b) potassium ions in an erythrocyte to that of the surrounding plasma? Sketch each figure above and add your null hypotheses to each sketch. </para><list id="element-189" list-type="bulleted"><title>Works Cited</title>	
+<item>De Weer, P. 2000. A century of thinking about cell membranes.  <cite><cite-title>Annual Review of Physiology.</cite-title></cite> 62:919-926.</item>
+	<item>Jacbos, M.H. 1931.  Diffusion processes in non-living and living systems. <cite><cite-title>Proceedings of the American Philosophical Society.</cite-title></cite> 70:167-186.</item>
+	<item>Kerr, S.E. 1929. Studies on the inorganic composition of blood. III. The influence of serum on the permeability of erythrocytes to potassium and sodium. <cite><cite-title>Journal of Biological Chemistry.</cite-title></cite>  85: 47-64. </item></list>   
+  </content>
+  
+</document>
